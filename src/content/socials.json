@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "icon": {
+      "type": "lucide",
+      "name": "linkedin"
+    },
+    "text": "LinkedIn.",
+    "link": "https://www.linkedin.com/in/friedlandben/"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "icon": {
+      "type": "lucide",
+      "name": "compass"
+    },
+    "text": "Software Archaeology."
+  },
+  {
+    "id": 2,
+    "icon": {
+      "type": "lucide",
+      "name": "gem"
+    },
+    "type": "lucide",
+    "text": "The Emerald City."
+  }
+]

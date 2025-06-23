@@ -14,7 +14,6 @@
   },
   "dependencies": {
     "@astrojs/mdx": "^4.3.0",
-    "@astrojs/node": "^9.2.2",
     "@astrojs/sitemap": "^3.4.0",
     "@iconify-json/lucide": "^1.2.20",
     "@iconify-json/simple-icons": "^1.2.18",
